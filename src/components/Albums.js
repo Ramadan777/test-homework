@@ -7,11 +7,11 @@ function Albums (props) {
 
   return (
     <div className="albums">
-      <a>
+      <ul>
         {albums.map(album => {
           return <Album album={album} key={album.id} />
         })}
-      </a>
+      </ul>
     </div>
   )
 }
