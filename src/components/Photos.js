@@ -6,6 +6,8 @@ function Photos (props) {
   const photos = useSelector(state => state.photos);
   const selectedAlbumId = useSelector(state => state.selectedAlbumId);
 
+  const filteredPhotos = photos.filter(photo => photo.albumId === selectedAlbumId)
+
   if(selectedAlbumId === null) {
     return (
       <div className="no-album-selected">
@@ -17,7 +19,7 @@ function Photos (props) {
 
   return (
     <div className="photos">
-      {photos.map(photo => {
+      {filteredPhotos.map(photo => {
         return <Photo photo={photo} key={photo.id} />
       })}
     </div>

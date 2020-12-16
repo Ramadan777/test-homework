@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf01a981-9859-4ac1-b904-2cc06879edef" name="Default Changelist" comment="" />
+    <list default="true" id="bf01a981-9859-4ac1-b904-2cc06879edef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Photo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Photo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Photos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Photos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607882953424</updated>
       <workItem from="1607882955631" duration="8564000" />
-      <workItem from="1607974137085" duration="14172000" />
+      <workItem from="1607974137085" duration="16793000" />
     </task>
     <servers />
   </component>

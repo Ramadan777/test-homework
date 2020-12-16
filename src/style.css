@@ -38,3 +38,15 @@
     color: darkred;
     flex: 1;
 }
+
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
+
+.photo {
+    margin: 5px 5px;
+    cursor: pointer;
+}

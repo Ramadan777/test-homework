@@ -17,7 +17,7 @@ export const loadPhotos = () => {
   return dispatch => {
     dispatch({type: 'photos/load/start'})
 
-    fetch("https://jsonplaceholder.typicode.com/albums")
+    fetch("https://jsonplaceholder.typicode.com/photos")
       .then(response => response.json())
       .then(json => {
         dispatch({
