@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf01a981-9859-4ac1-b904-2cc06879edef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/redux/albums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/photos.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Album.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Album.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Albums.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Albums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Photos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Photos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducer.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +59,8 @@
       <updated>1607882953424</updated>
       <workItem from="1607882955631" duration="8564000" />
       <workItem from="1607974137085" duration="17963000" />
-      <workItem from="1608144319292" duration="222000" />
+      <workItem from="1608144319292" duration="538000" />
+      <workItem from="1608369430244" duration="4157000" />
     </task>
     <servers />
   </component>
